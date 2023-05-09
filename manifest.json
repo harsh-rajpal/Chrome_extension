@@ -1,0 +1,12 @@
+{
+    "name":"greetings",
+    "version":"1.0.0",
+    "description":"A simple greeting app",
+    "manifest_version":3,
+    "author":"Harsh Rajpal",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Greetings",
+        "default_icon":"icon.png"
+    }
+}
